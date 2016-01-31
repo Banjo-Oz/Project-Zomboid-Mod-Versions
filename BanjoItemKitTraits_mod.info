@@ -1,7 +1,7 @@
 name=Banjo's Item Kit Traits
-poster=poster.png
 id=BanjoItemKitTraits
-description= Adds new traits that provide basic starting items. By Banjo.
+poster=poster.png
+description=Adds new traits that provide basic starting items. By Banjo.
 url=
 modversion=2.0
 pzversion=33.20
