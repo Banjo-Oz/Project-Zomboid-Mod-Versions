@@ -1,8 +1,8 @@
 name=Banjo's Item & Recipe Tweaks
 id=BanjoItemAndRecipeTweaks
 poster=poster.png
-description= Tweaks a few items and recipes for balance, typos and expanded functionality. By Banjo.
+description=Tweaks a few items and recipes for balance, typos and expanded functionality. By Banjo.
 url=
-modversion=2.0
-pzversion=33.20
+modversion=3.0
+pzversion=37.3
 versionurl=https://raw.githubusercontent.com/Banjo-Oz/Project-Zomboid-Mod-Versions/master/BanjoItemAndRecipeTweaks_mod.info
