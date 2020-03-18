@@ -1,0 +1,8 @@
+name=NecroForge Plus
+id=NecroForgePlus
+poster=poster.png
+description=Restores some missing items to NecroForge v2.7b for build 41, and also adds support for spawning other 3rd party mod items. Supported Mods (by ID): Silencer, SawnOffs, SKLDairyModBeta.
+url=https://theindiestone.com/forums/index.php?/topic/22698-necroforge-item-spawner-utility/
+modversion=4.0
+pzversion=41.31
+versionurl=https://raw.githubusercontent.com/Banjo-Oz/Project-Zomboid-Mod-Versions/master/BanjoNecroforgePlus_mod.info
