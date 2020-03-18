@@ -1,8 +1,8 @@
 name=Banjo's New Professions & Traits
 id=BanjoNewProfessionsAndTraits
 poster=poster.png
-description=Adds new professions and traits. By Banjo.
+description=Adds four new professions (Model, Stylist, Survivalist and Night Clerk) and several new traits. By Banjo.
 url=
-modversion=3.0
-pzversion=37.3
+modversion=4.0
+pzversion=41.31
 versionurl=https://raw.githubusercontent.com/Banjo-Oz/Project-Zomboid-Mod-Versions/master/BanjoNewProfessionsAndTraits_mod.info
