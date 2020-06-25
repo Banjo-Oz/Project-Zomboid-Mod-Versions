@@ -1,8 +1,9 @@
 name=Banjo's Start Points - Dixie Park
 id=BanjoStartDixiePark
 poster=poster.png
-description=Lets you choose to start the game in Dixie Park (between Muldraugh and West Point). By Banjo.
+poster=DixieParkMap.png
+description=Lets you choose to start the game in Dixie Mobile Park, a trailer park located between Muldraugh and West Point. By Banjo.
 url=
-modversion=4.0
-pzversion=41.31
+modversion=4.1
+pzversion=41.33
 versionurl=https://raw.githubusercontent.com/Banjo-Oz/Project-Zomboid-Mod-Versions/master/BanjoStartDixiePark_mod.info
