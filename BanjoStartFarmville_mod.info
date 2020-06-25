@@ -1,8 +1,8 @@
 name=Banjo's Start Points - Farmville
 id=BanjoStartFarmville
 poster=poster.png
-description=Lets you choose to start the game in the small farm community to the distant northwest of Muldraugh. By Banjo.
+description=Lets you choose to start the game in the small farm community (home of the "Pony Roam-O") to the distant northwest of Muldraugh. By Banjo.
 url=
-modversion=4.0
-pzversion=41.31
+modversion=4.1
+pzversion=41.33
 versionurl=https://raw.githubusercontent.com/Banjo-Oz/Project-Zomboid-Mod-Versions/master/BanjoStartFarmville_mod.info
