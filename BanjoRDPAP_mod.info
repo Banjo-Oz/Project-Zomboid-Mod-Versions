@@ -1,8 +1,8 @@
 name=Banjo's Reusable/De-Weaponized Pens & Pencils
 id=BanjoRDPAP
 poster=poster.png
-description=Makes all pens and pencils drainable (multi-use) items, but no longer allows them to be used as weapons (pencils can be sharpened and "re-weaponized" though). Also makes Crayons drainable, and all writing implements can now write notes/journals, too. Thanks to Kinyoshi for help. By Banjo.
+description=Makes all pens and pencils drainable (multi-use) items, but no longer allows them to be used as weapons (pencils can be sharpened and "re-weaponized" though). Also makes Crayons drainable, and all writing implements can now write notes/journals, too. Thanks to Kinyoshi and Oh God Spiders No for help. By Banjo.
 url=
-modversion=5.0
-pzversion=41.34
+modversion=6.0
+pzversion=41.50
 versionurl=https://raw.githubusercontent.com/Banjo-Oz/Project-Zomboid-Mod-Versions/master/BanjoRDPAP_mod.info
